@@ -8,3 +8,7 @@ Fractal 1
 
 Fractal 2
 ![Fractal 2](http://i.imgur.com/IEEhyIJ.jpg)
+
+# Todo:
+
+There is a persistent error involving an array going out of bounds, however the error has been inconsistent in its appearence and does not seem to prevent the code from succesfully producing an output. 
